@@ -51,7 +51,7 @@ Dive into sophisticated methods and specialized algorithms:
 | `02_random_forest_regression.ipynb` | Random Forest for molecular properties | 🟡 Intermediate | 15 min |
 | `03_regression_with_uncertainty.ipynb` | Uncertainty quantification in regression | 🔴 Advanced | 30 min |
 | `04_multitask_random_forest.ipynb` | Multi-task learning with Random Forest | 🔴 Advanced | 30 min |
-| `05_tabicl_regression.ipynb` | Regression using tabicl model with build-in SHAP explainability | 🔴 Advanced | 20 min |
+| `05_tabicl_regression.ipynb` | Regression using TabICL model with built-in SHAP explainability | 🔴 Advanced | 20 min |
 
 ### 03_classification/ - Categorical Property Prediction 🎯
 **Classify molecules into categories (active/inactive, toxic/safe, etc.)**
