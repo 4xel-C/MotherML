@@ -30,7 +30,7 @@ print(ml.get_supported_models())
 | `randomforest` | `RandomForestRegressorMother`, `RandomForestClassifierMother` |
 | `lasso` | `LassoRegressorMother`, `LassoClassifierBinaryMother`, `LassoClassifierMulticlassMother` |
 | `tabpfn` | `TabPFNRegressorMother`, `TabPFNClassifierMother` |
-| `tabicl` | `TabICLRegressorMother`, `TabICLClassifierMother` |
+| `tabicl` | `TabICLRegressorMother`, `TabICLClassifierMother` , `TabICLEmbeddingTransformer` (utility extracting TabICL embeddings for dowstream models)|
 
 ### Easy usage patterns
 
