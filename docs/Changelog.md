@@ -7,6 +7,31 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- version list -->
 
+## v2.0.2 (2026-10-05)
+
+### Bug Fixes
+
+- Changelog creation and missing changelog added
+  ([#95](https://github.com/Bayer-Group/MotherML/pull/95),
+  [`be52939`](https://github.com/Bayer-Group/MotherML/commit/be52939c5a9c4de0999cb94ca83dfb0998ce9046))
+
+- No manual version bump ([#95](https://github.com/Bayer-Group/MotherML/pull/95),
+  [`be52939`](https://github.com/Bayer-Group/MotherML/commit/be52939c5a9c4de0999cb94ca83dfb0998ce9046))
+
+- Update build command to regenerate and stage uv.lock for release commits
+  ([#95](https://github.com/Bayer-Group/MotherML/pull/95),
+  [`be52939`](https://github.com/Bayer-Group/MotherML/commit/be52939c5a9c4de0999cb94ca83dfb0998ce9046))
+
+- Update build command to regenerate and stage uv.lock for release…
+  ([#95](https://github.com/Bayer-Group/MotherML/pull/95),
+  [`be52939`](https://github.com/Bayer-Group/MotherML/commit/be52939c5a9c4de0999cb94ca83dfb0998ce9046))
+
+### Chores
+
+- Uv audit and fix project version ([#95](https://github.com/Bayer-Group/MotherML/pull/95),
+  [`be52939`](https://github.com/Bayer-Group/MotherML/commit/be52939c5a9c4de0999cb94ca83dfb0998ce9046))
+
+
 ## v2.0.1 (2026-10-01)
 
 ### Bug Fixes
